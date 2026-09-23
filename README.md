@@ -1,5 +1,6 @@
 
-<img width="734" height="241" alt="banner" src="https://github.com/user-attachments/assets/69d9faa0-b614-4f90-9bc9-d9d4831f9cf1" />
+<img width="736" height="255" alt="banner_github" src="https://github.com/user-attachments/assets/15675e27-d4f2-4a93-a770-4b568b81cc49" />
+
 
 # Oie, eu sou a Fabrine 👩🏽‍💻
 
