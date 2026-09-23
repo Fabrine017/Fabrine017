@@ -1,6 +1,15 @@
-# Fabrine Silva ⌨️
+# Oie, eu sou a Fabrine 👩🏽‍💻
 
-Me chamo Fabrine Silva Evangelista, teho 19 anos e sou natural de Minas Gerais. Atualmente curso Sistemas de Informação pela UniFECAF. Sou apaixonada por Python e desejo construir minha carreira e contribuir para a inovação na área de engenharia de dados! 💻
+📍 Minas Gerais
+
+🖥️ Estudante de Sistemas de Informação pela UniFECAF
+
+🐍 Atualmente desenvolvendo projetos em Python
+
+⚙️ Interessada em engenharia de dados, análise e processamento de dados
+
+
+Atualmente estou construindo minha base em lógica de programação, Git e Git Hub, enquanto desenvolvo projetos práticos que transformam meus conhecimnentos em aplicações reais e aprimoram minha capacidade de identificação e resolução de problemas ecriação de soluções.
 
 <p align="left">
     <a href="https://www.instagram.com/fabrine.sl?stkn=cDBob2VnZDR2c3Q4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
