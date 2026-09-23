@@ -1,3 +1,6 @@
+
+<img width="734" height="241" alt="banner" src="https://github.com/user-attachments/assets/69d9faa0-b614-4f90-9bc9-d9d4831f9cf1" />
+
 # Oie, eu sou a Fabrine 👩🏽‍💻
 
 📍 Minas Gerais
